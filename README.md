@@ -18,4 +18,4 @@ The model used in this project is based on the InceptionV3 architecture, pre-tra
 The model consists of a base model with frozen layers and additional layers on top for classification.
 
 ## Accuracy
-It achieved a test accuracy of 94%.
+Achieved a test accuracy of 94%.
