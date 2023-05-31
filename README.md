@@ -17,5 +17,6 @@ Link : https://www.kaggle.com/datasets/kunalmadan/vehicle-multi-classification
 The model used in this project is based on the InceptionV3 architecture, pre-trained on the ImageNet dataset.
 The model consists of a base model with frozen layers and additional layers on top for classification.
 
+
 ## Accuracy
-Achieved a test accuracy of 94%.
+Achieved a test accuracy of **94%**.
