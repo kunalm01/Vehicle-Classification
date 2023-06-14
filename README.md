@@ -12,7 +12,7 @@ Link : https://www.kaggle.com/datasets/kunalmadan/vehicle-multi-classification
 
 
 ## Performance
-![Alt Text](./images/graph.png)
+![Alt Text](./images/graphone.png)
 
 ## Model
 The model used in this project is based on the InceptionV3 architecture, pre-trained on the ImageNet dataset.
