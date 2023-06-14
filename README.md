@@ -26,5 +26,7 @@ Their performances are :
 | VGG16 Model            | 0.789954   | 0.652238 |
 | InceptionV3 Model      | 0.899543   | 0.250821 |
 
+MobileNetV2 Model showed the maximum accuracy and the minimum loss.
+
 ## Accuracy
 Achieved a test accuracy of **95.43%**.
